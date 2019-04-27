@@ -1,0 +1,14 @@
+--- 
+- student1: 
+    email: s8aslam@uwaterloo.ca
+    first: Saud
+    last: Aslam
+    student: 20751814
+    watiam: s8aslam
+- student2: 
+    email: ha3qures@uwaterloo.ca
+    first: Hamza
+    last: Qureshi
+    student: 20755087
+    watiam: ha3qures
+...
